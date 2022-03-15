@@ -1,6 +1,7 @@
 # Portfolio Website
 - To Do
 - [] ERD
+- [] Admin Site setup
 - [] Profile Table
 - [] Links Table
 - [] Experience Table
