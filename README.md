@@ -1,5 +1,5 @@
 # Portfolio Website
-### - [x] ERD
+- [x] ERD
 ![Screenshot](readmeImages/Portfolio_ERD.png)
 <p>ERD Portfolio to implement at the website </p>
 - [] Admin Site setup
