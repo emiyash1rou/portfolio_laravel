@@ -1,6 +1,6 @@
 # Portfolio Website
-- To Do
-- [] ERD
+## <b>To Do</b>
+- [x] Earth (Orbit/Moon)
 - [] Admin Site setup
 - [] Profile Table
 - [] Links Table
